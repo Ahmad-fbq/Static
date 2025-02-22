@@ -27,7 +27,7 @@ class Main {
             new Book("The Five Dysfunctions of a Team", 2002),
             new Book("A Theory of Justice", 1971),
             new Book("Emotional Intelligence: Why it Can Matter More Than IQ", 1995),
-            new Book("Mind Whisperring: A New Map to Freedom from Self-Defeating Emotional Habits", 2013),
+            new Book("Mind Whispering: A New Map to Freedom from Self-Defeating Emotional Habits", 2013),
             new Book("The Little Prince", 1943),
             new Book("Frames of Mind: The Theory of Multiple Intelligence", 1983),
             new Book("Introduction to Ancient Philosophy", 1947),
